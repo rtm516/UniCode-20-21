@@ -1,7 +1,7 @@
 # UniCode 20/21
 Across 13 challenges, 80+ UK based Universities battle it out head-to-head to try and finish in the top 5 of their league, earning their spot at the ultimate coding battle finale.
 
-###Prize
+### Prize
 Grand Final = Trip to San Francisco
 
 ### Start Date
