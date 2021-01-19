@@ -1,4 +1,7 @@
 # Snowcode (Dec 21st - Jan 4th)
+## Files
+ * [`Solution.java`](./Solution.java) is my solution that I submitted
+
 ## Score
 86%
 00:17:09.5770000

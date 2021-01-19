@@ -12,3 +12,4 @@ These are my solutions to the challenges along with the challenge information.
 * [Ready Player X (Nov 23rd - Dec 7th)](./src/main/java/com/rtm516/showcode/ready_player_x/README.md)
 * [Devvie (Dec 7th - 21st)](./src/main/java/com/rtm516/showcode/devvie/README.md)
 * [Snowcode (Dec 21st - Jan 4th)](./src/main/java/com/rtm516/showcode/snowcode/README.md)
+* [Attack Cleanup (Jan 4th - 18th)](./src/main/java/com/rtm516/showcode/attack_cleanup/README.md)

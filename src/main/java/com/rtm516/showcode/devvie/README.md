@@ -1,4 +1,7 @@
 # Devvie (Dec 7th - 21st)
+## Files
+ * [`Solution.java`](./Solution.java) is my solution that I submitted
+
 ## Score
 80%
 00:43:30.7380000
