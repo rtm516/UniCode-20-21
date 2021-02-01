@@ -13,3 +13,4 @@ These are my solutions to the challenges along with the challenge information.
 * [Devvie (Dec 7th - 21st)](./src/main/java/com/rtm516/showcode/devvie/README.md)
 * [Snowcode (Dec 21st - Jan 4th)](./src/main/java/com/rtm516/showcode/snowcode/README.md)
 * [Attack Cleanup (Jan 4th - 18th)](./src/main/java/com/rtm516/showcode/attack_cleanup/README.md)
+* [Fraud Alert (Jan 18th - Feb 1st)](./src/main/java/com/rtm516/showcode/fraud_alert/README.md)
