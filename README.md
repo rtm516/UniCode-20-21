@@ -14,3 +14,6 @@ These are my solutions to the challenges along with the challenge information.
 * [Snowcode (Dec 21st - Jan 4th)](./src/main/java/com/rtm516/showcode/snowcode/README.md)
 * [Attack Cleanup (Jan 4th - 18th)](./src/main/java/com/rtm516/showcode/attack_cleanup/README.md)
 * [Fraud Alert (Jan 18th - Feb 1st)](./src/main/java/com/rtm516/showcode/fraud_alert/README.md)
+* Strike (Feb 1st - Feb 15th)
+* Crack The Code (Feb 15th - Mar 1st)
+* [Alaric's Treasure (Mar 1st - 15th)](./src/main/java/com/rtm516/showcode/alarics_treasure/README.md)
