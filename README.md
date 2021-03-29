@@ -17,3 +17,4 @@ These are my solutions to the challenges along with the challenge information.
 * Strike (Feb 1st - Feb 15th)
 * Crack The Code (Feb 15th - Mar 1st)
 * [Alaric's Treasure (Mar 1st - 15th)](./src/main/java/com/rtm516/showcode/alarics_treasure/README.md)
+* [The Heist (Mar 15th - 29th)](./src/main/java/com/rtm516/showcode/the_heist/README.md)
